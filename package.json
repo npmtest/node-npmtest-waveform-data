@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [waveform-data (v2.0.1)](https://github.com/bbc/waveform-data.js)  [![npm package](https://img.shields.io/npm/v/npmtest-waveform-data.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-waveform-data) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-waveform-data.svg)](https://travis-ci.org/npmtest/node-npmtest-waveform-data)",
+    "description": "#### basic test coverage for  [waveform-data (v2.0.1)](https://github.com/bbc/waveform-data.js)  [![npm package](https://img.shields.io/npm/v/npmtest-waveform-data.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-waveform-data) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-waveform-data.svg)](https://travis-ci.org/npmtest/node-npmtest-waveform-data)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "utility2": "kaizhu256/node-utility2#alpha",
